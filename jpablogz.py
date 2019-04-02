@@ -1,2 +1,2 @@
-def crearmensaje(mensaje):
+def darmensaje(mensaje):
     print(mensaje)
