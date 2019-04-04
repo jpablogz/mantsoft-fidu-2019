@@ -1,7 +1,7 @@
-def mi_funcion(mensaje): 
+def darmensaje(mensaje): 
 
 
     print ("hola Mundo",mensaje)
 
-mi_funcion("prueba")
+darmensaje("prueba")
     
