@@ -1,6 +1,4 @@
 ﻿# mantsoft-fidu-2019
-Proyecto de la clase de Matenimiento de Software de la U. Fidélitas. 1C 2019
-
 Este proyecto cuenta con varias ramas que cada uno de los estudiantes deberá ir modificando de acuerdo a las tareas asignadas semanalmente. Al final de cada tarea, se realiza un merge hacia al master.
 
 ### Pre requisitos:
