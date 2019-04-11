@@ -1,3 +1,6 @@
+Readme Jspblhdzflls
+
+
 Pre requisitos:
 El proyecto se puede descargar desde github o desde la aplicación de GitHub Desktop. Para ejecutar el programa, se necesita descargar la versión 3.7.2 de python desde Python; no obstante, también funciona con versiones anteriores.
 
