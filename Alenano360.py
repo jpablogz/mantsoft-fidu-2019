@@ -16,6 +16,6 @@ def numeroPratones(Cadena, Patron):
     for i in range(0, (len(Cadena) - len(Patron) + 1)):
         if Cadena[i:i+len(Patron)] == Patron:
            conta = conta + 1
-    print("El numero de patrones en el texto es:",conta)
+    print("El numero veces que repite el patron es:",conta)
 
 numeroPratones(Cadena,Patron)
