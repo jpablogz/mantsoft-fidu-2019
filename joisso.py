@@ -3,6 +3,7 @@ def darmensaje(mensaje):
     print(mensaje)
 
 darmensaje("dar mensaje")
+<<<<<<< HEAD
 
 ///////////////////////////////////////////////////////////
 
@@ -25,3 +26,5 @@ print(PatternCount(Texto, Pattern))
 
 "El IF busca el valor del índice i en el texto es igual al índice 0 en el patrón (que es G) al encontrar G en el texto, validara el indice del índice i al índice i + la longitud del patrón y ver si conincide o no el patron 
 
+=======
+>>>>>>> Joisso
