@@ -4,7 +4,7 @@
 def darmensaje(mensaje): 
     print ("Hola mundo!", mensaje)
 
-darmensaje("Fernando")
+darmensaje("Fernando") 
 
 # Esta Función determina la frecuencia con la que un patrón aparece en una cadena de texto.
 # Recibe como parámetros el texto y el patrón. Y retorna el número de veces que se encuentra ese patrón en el texto.
