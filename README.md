@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# mantsoft-fidu-2019
 Este proyecto cuenta con varias ramas que cada uno de los estudiantes deberá ir modificando de acuerdo a las tareas asignadas semanalmente. Al final de cada tarea, se realiza un merge hacia al master.
 
@@ -16,7 +15,7 @@ Hay dos formas de abrirlo:
 2. Directamente desde el archivo
 
 Una vez abierto, hay que ir a la opción Run -> Run Module o ejecutar la tecla F5
-=======
+
 # mantsoft-fidu-2019
     Proyecto de la clase de Matenimiento de Software de la U. Fidélitas. 1C 2019
 
@@ -31,4 +30,4 @@ Una vez abierto, hay que ir a la opción Run -> Run Module o ejecutar la tecla F
 
     para poder ejecutar el programa se necesita tener los comandos de python agregados al path de windows, desde la terminal moverse con el comando "Cd" a la carpeta en la que el proyecto este guardado, dentro de la carpeta del proyecto escribimos lo siguiente "python nombredelarchivo.py" y el archivo se ejecutara 
 
->>>>>>> master
+
